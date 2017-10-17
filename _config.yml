@@ -1,4 +1,7 @@
 
+# Global configuration
+timezone: Europe/London
+
 # Site settings
 title: Steve Ganly
 #email: your-email@domain.com
@@ -9,6 +12,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ganly
 github_username:  ganly
 
+defaults:
+  -
+    scope:
+      path: "_notes"
+      type: "notes"
+    values:
+      layout: "pages"
+
+collections:
+  notes:
+    permalink: /:collection/:path/
+    output: true
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -16,8 +32,10 @@ theme: minima
 repository: https://github.com/ganly/ganly.github.io
 plugins:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - .gitignore
+  - .DS_Store

@@ -1,0 +1,9 @@
+---
+layout: page
+title: Notes
+permalink: /notes/
+---
+
+My notes on some things
+
+* [TensorFlow](/notes/tensorflow)
