@@ -4,6 +4,11 @@ title: TensorFlow notes
 permalink: /notes/tensorflow/
 ---
 
+[Home page](https://www.tensorflow.org/)
+
+[Source Code](https://github.com/tensorflow/tensorflow)
+
+
 Installing and initial tests
 ----------------------------
 
