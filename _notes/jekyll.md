@@ -6,15 +6,19 @@ permalink: /notes/jekyll/
 
 
 Site hosted by [github pages](https://pages.github.com/)
+with a wonderful [list of examples](https://github.com/collections/github-pages-examples).
 
-Configured to use [Kramdown](https://kramdown.gettalong.org/)
+Configured to use [kramdown](https://kramdown.gettalong.org/)
 which has a [cheatsheet/quick reference](https://kramdown.gettalong.org/quickref.html)
-and a 
+and a (suprisingly shorter)
+[documentation page](https://kramdown.gettalong.org/documentation.html).
+
 
 View local copy:
 
-    cd ...
-    jekyll serve
+    cd ~/projects/ganly.github.io
+    bundle exec jekyll serve
+    open http://127.0.0.1:4000/
 
 
 Sample sites for inspiration and copying
