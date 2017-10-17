@@ -26,3 +26,14 @@ Places I've Done Projects For
 [ ] Add logo icons, arrange a layout, add links to the corporate sites
 
 
+About this site
+---------------
+
+[ ] Decide if this should be a notes file
+
+[ ] Check out [Bower](https://bower.io/)
+
+[ ] Check out [Octicons](https://octicons.github.com/)
+
+
+
