@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Tensorflow notes
+title: TensorFlow notes
 permalink: /notes/tensorflow/
 ---
 
 Installing and initial tests
+----------------------------
+
 * [Installation on MacOS](https://www.tensorflow.org/install/install_mac)
 * [Getting Started With TensorFlow](https://www.tensorflow.org/get_started/get_started)
+
 
 Tutorials
 ---------
